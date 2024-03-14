@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyClZNaP9NVYF18N3gVMCqW81ElLsds8mLk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>724141443535</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mplMini</string>
+	<key>PROJECT_ID</key>
+	<string>whatsapp-new-clone-3fa2b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatsapp-new-clone-3fa2b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:724141443535:ios:49f4e3770f2b8dd626eaba</string>
+	<key>DATABASE_URL</key>
+	<string>https://whatsapp-new-clone-3fa2b-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

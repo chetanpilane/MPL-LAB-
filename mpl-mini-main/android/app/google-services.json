@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "724141443535",
+    "firebase_url": "https://whatsapp-new-clone-3fa2b-default-rtdb.firebaseio.com",
+    "project_id": "whatsapp-new-clone-3fa2b",
+    "storage_bucket": "whatsapp-new-clone-3fa2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724141443535:android:a43ce45f8f9617f826eaba",
+        "android_client_info": {
+          "package_name": "com.example.mpl_mini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJou1wH1xCqCPu-9yUpVcXuMOOduCShY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724141443535:android:5ef3e32a07637f1926eaba",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNJou1wH1xCqCPu-9yUpVcXuMOOduCShY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
